@@ -2,13 +2,13 @@
 <resources>
     <!-- Build properties from a GMS certified device -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
-        <item>essential</item> <!-- Build.BRAND -->
-        <item>Essential Products</item> <!-- Build.MANUFACTURER -->
+        <item>archos</item> <!-- Build.BRAND -->
+        <item>Archos</item> <!-- Build.MANUFACTURER -->
         <item></item> <!-- Build.ID -->
-        <item>mata</item> <!-- Build.DEVICE -->
-        <item>mata</item> <!-- Build.PRODUCT -->
-        <item>PH-1</item> <!-- Build.MODEL -->
-        <item>essential/mata/mata:8.1.0/OPM1.180104.092/224:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>ac70dti</item> <!-- Build.DEVICE -->
+        <item>MTKAC70DTI</item> <!-- Build.PRODUCT -->
+        <item>Archos 70d Titanium</item> <!-- Build.MODEL -->
+        <item>archos/MTKAC70DTI/ac70dti:7.0/NRD90M/20170602.033254:user/release-keys</item> <!-- Build.FINGERPRINT -->
         <item></item> <!-- Build.TYPE -->
         <item></item> <!-- Build.TAGS -->
     </string-array>
