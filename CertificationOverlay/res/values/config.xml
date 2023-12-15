@@ -2,13 +2,13 @@
 <resources>
     <!-- Build properties from a GMS certified device -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
-        <item>xiaomi</item> <!-- Build.BRAND -->
-        <item>Xiaomi</item> <!-- Build.MANUFACTURER -->
+        <item>GIONEE</item> <!-- Build.BRAND -->
+        <item>GIONEE</item> <!-- Build.MANUFACTURER -->
         <item></item> <!-- Build.ID -->
-        <item>ferrari</item> <!-- Build.DEVICE -->
-        <item>ferrari</item> <!-- Build.PRODUCT -->
-        <item>Mi 4i</item> <!-- Build.MODEL -->
-        <item>Xiaomi/ferrari/ferrari:5.0.2/LRX22G/V6.4.10.0.LXIMICB:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>GIONEE_SW17G12</item> <!-- Build.DEVICE -->
+        <item>S11S</item> <!-- Build.PRODUCT -->
+        <item>GIONEE S11S</item> <!-- Build.MODEL -->
+        <item>GIONEE/S11S/GIONEE_SW17G12:7.1.1/N6F26Q/1509594663:user/release-keys</item> <!-- Build.FINGERPRINT -->
         <item></item> <!-- Build.TYPE -->
         <item></item> <!-- Build.TAGS -->
         <item></item> <!-- Build.SECURITY_PATCH -->
