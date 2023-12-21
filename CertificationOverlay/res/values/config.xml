@@ -2,13 +2,13 @@
 <resources>
     <!-- Build properties from a GMS certified device -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
-        <item>GIONEE</item> <!-- Build.BRAND -->
-        <item>GIONEE</item> <!-- Build.MANUFACTURER -->
+        <item>YU nitrogen</item> <!-- Build.BRAND -->
+        <item>YU</item> <!-- Build.MANUFACTURER -->
         <item></item> <!-- Build.ID -->
-        <item>GIONEE_SW17G12</item> <!-- Build.DEVICE -->
-        <item>S11S</item> <!-- Build.PRODUCT -->
-        <item>GIONEE S11S</item> <!-- Build.MODEL -->
-        <item>GIONEE/S11S/GIONEE_SW17G12:7.1.1/N6F26Q/1509594663:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>YUREKA</item> <!-- Build.DEVICE -->
+        <item>YUREKA</item> <!-- Build.PRODUCT -->
+        <item>YU5510</item> <!-- Build.MODEL -->
+        <item>YU/YUREKA/YUREKA:5.1.1/LMY49J/YOG4PAS8A4:user/release-keys</item> <!-- Build.FINGERPRINT -->
         <item></item> <!-- Build.TYPE -->
         <item></item> <!-- Build.TAGS -->
         <item></item> <!-- Build.SECURITY_PATCH -->
