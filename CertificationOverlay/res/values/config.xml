@@ -2,13 +2,13 @@
 <resources>
     <!-- Build properties from a GMS certified device -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
-        <item>acer</item> <!-- Build.BRAND -->
-        <item>Acer Inc.</item> <!-- Build.MANUFACTURER -->
+        <item>asus</item> <!-- Build.BRAND -->
+        <item>Asus</item> <!-- Build.MANUFACTURER -->
         <item></item> <!-- Build.ID -->
-        <item>acer_c01</item> <!-- Build.DEVICE -->
-        <item>c01_ww</item> <!-- Build.PRODUCT -->
-        <item>C01</item> <!-- Build.MODEL -->
-        <item>acer/c01_ww/acer_c01:7.1.1/NMF26F/1521514970:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>ASUS_Z01KD_1</item> <!-- Build.DEVICE -->
+        <item>WW_Z01KD</item> <!-- Build.PRODUCT -->
+        <item>ASUS_Z01KD</item> <!-- Build.MODEL -->
+        <item>asus/WW_Z01KD/ASUS_Z01KD_1:9/PPR1.180610.009/16.0620.1912.23-0:user/release-keys</item> <!-- Build.FINGERPRINT -->
         <item></item> <!-- Build.TYPE -->
         <item></item> <!-- Build.TAGS -->
         <item></item> <!-- Build.SECURITY_PATCH -->
