@@ -2,12 +2,12 @@
 <resources>
     <!-- Build properties from a GMS certified device -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
-        <item>WW_Z01KD</item> <!-- Build.PRODUCT -->
-        <item>ASUS_Z01KD_1</item> <!-- Build.DEVICE -->
-        <item>Asus</item> <!-- Build.MANUFACTURER -->
-        <item>asus</item> <!-- Build.BRAND -->
-        <item>ASUS_Z01KD</item> <!-- Build.MODEL -->
-        <item>asus/WW_Z01KD/ASUS_Z01KD_1:9/PPR1.180610.009/16.0620.1912.23-0:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>CatS60</item> <!-- Build.PRODUCT -->
+        <item>CatS60</item> <!-- Build.DEVICE -->
+        <item>BullittGroupLimited</item> <!-- Build.MANUFACTURER -->
+        <item>Cat</item> <!-- Build.BRAND -->
+        <item>S60</item> <!-- Build.MODEL -->
+        <item>Cat/CatS60/CatS60:6.0.1/MMB29M/LTE_D0201121.0_S60_0.031.02:user/release-keys</item> <!-- Build.FINGERPRINT -->
         <item></item> <!-- Build.SECURITY_PATCH -->
         <item></item> <!-- Build.DEVICE_INITIAL_SDK_INT -->
         <item></item> <!-- Build.ID -->
