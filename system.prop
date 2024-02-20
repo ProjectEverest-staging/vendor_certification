@@ -10,3 +10,6 @@ persist.sys.pihooks.build_fingerprint=Cat/CatS60/CatS60:6.0.1/MMB29M/LTE_D020112
 persist.sys.pihooks.build_description=CatS60-user 6.0.1 MMB29M LTE_D0201121.0_S60_0.031.02 release-keys
 persist.sys.pihooks.build_tags=release-keys
 persist.sys.pihooks.build_type=user
+persist.sys.pihooks.verifiedbootstate=green
+persist.sys.pihooks.flash.locked=1
+persist.sys.pihooks.vbmeta.device_state=locked
